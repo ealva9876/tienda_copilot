@@ -1,2 +1,2 @@
 # tienda_copilot
-Rienda de productos masivos
+Tienda de productos masivos para la casa
